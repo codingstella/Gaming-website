@@ -1,0 +1,155 @@
+Unigine - Epic Games Made For True Gamers!
+
+This is an esports and gaming html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = unigine home
+
+home
+tournament
+news
+contact
+
+join our team
+
+aria-label = toggle menu
+
+
+
+#---------- HERO ----------#
+
+Enjoy The Games
+Epic Games Made For True Gamers!
+
+Join With Us
+
+alt = hero banner
+alt = shape
+
+
+
+#---------- UPCOMING ----------#
+
+Upcoming Matches
+
+Battles Extreme Masters Tournament
+
+Our success in creating business solutions is due in large part to our talented and highly committed team.
+
+1.
+alt = Purple Death Cadets
+Purple Death Cadets
+Group 04 | Match 06th
+
+10:00
+25TH May 2024
+
+<ion-icon name="logo-youtube"></ion-icon>
+<ion-icon name="logo-twitch"></ion-icon>
+
+alt = Trigger Brain Squad
+Trigger Brain Squad
+
+2.
+alt = The Black Hat Hackers
+The Black Hat Hackers
+
+12:30
+10TH Jan 2024
+
+alt = Your Worst Nightmare
+Your Worst Nightmare
+Group 05 | Match 02nd
+
+3.
+alt = Witches And Quizards
+Witches And Quizards
+Group 02 | Match 03rd
+
+04:20
+15th Dec 2024
+
+alt = Resting Bitch Faces
+Resting Bitch Faces
+Group 02 | Match 03rd
+
+
+
+#---------- NEWS ----------#
+
+What's On Our Mind
+
+News And Headlines
+
+Our success in creating business solutions is due in large part to our talented and highly committed team.
+
+alt = Innovative Business All Over The World.
+Business
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+Jan 01 2022
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+Elliot Alderson
+
+Innovative Business All Over The World.
+
+Financial experts support or help you to to find out which way you can raise your funds more...
+
+Read More
+
+Startup
+
+How To Start Initiating An Startup In Few Days.
+
+Finance
+
+Financial Experts Support Help You To Find Out.
+
+
+
+#---------- FOOTER ----------#
+
+alt = Unigine logo
+
+Our success in creating business solutions is due in large part to our talented and highly committed team.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Usefull Links
+
+Tournaments
+Help Center
+Privacy and Policy
+Terms of Use
+Contact Us
+
+Contact Us
+
+Location:
+153 Williamson Plaza, Maggieberg, MT 09514
+
+Join Us:
+Info@unigine.com
+
+Phone:
++1 (234) 567-8910
+
+Newsletter Signup
+
+Your Email
+Subscribe Now
+&copy; 2022 codewithsadee All Rights Reserved.
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+<ion-icon name="arrow-up-outline" aria-hidden="true"></ion-icon>
