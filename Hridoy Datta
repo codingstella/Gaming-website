@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HRIDOY APK</title>
+
+<style>
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  background:#0f172a;
+  color:white;
+  font-family:Arial,sans-serif;
+}
+header{
+  padding:25px;
+  text-align:center;
+  background:#111827;
+}
+header h1{
+  color:#00e5ff;
+}
+nav{
+  padding:15px;
+  text-align:center;
+  background:#1e293b;
+}
+nav a{
+  color:white;
+  text-decoration:none;
+  margin:10px;
+}
+.container{
+  max-width:900px;
+  margin:30px auto;
+  padding:20px;
+}
+.card{
+  background:#1e293b;
+  padding:20px;
+  border-radius:15px;
+  margin-bottom:20px;
+}
+button{
+  background:#00c853;
+  color:white;
+  border:none;
+  padding:12px 20px;
+  border-radius:8px;
+  cursor:pointer;
+}
+footer{
+  text-align:center;
+  padding:30px;
+  color:#aaa;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>HRIDOY APK</h1>
+<p>Apps • Games • Videos • Songs</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#apps">Apps</a>
+<a href="#videos">Videos</a>
+<a href="#songs">Songs</a>
+</nav>
+
+<div class="container">
+
+<section class="card">
+<h2>Welcome!</h2>
+<p>Welcome to my website. Explore apps,
+games, videos and more.</p>
+</section>
+
+<section class="card" id="apps">
+<h2>APK Apps</h2>
+<p>Find your favorite applications here.</p>
+<br>
+<button onclick="alert('Coming Soon!')">Download Apps</button>
+</section>
+
+<section class="card" id="videos">
+<h2>Videos</h2>
+<p>Explore interesting videos.</p>
+</section>
+
+<section class="card" id="songs">
+<h2>Songs</h2>
+<p>Listen to your favorite music.</p>
+</section>
+
+</div>
+
+<footer>
+<p>© 2026 HRIDOY APK | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
